@@ -1,10 +1,10 @@
 {
   "name": "moodlemobile",
   "version": "3.4.2",
-  "description": "The official app for Moodle.",
+  "description": "NRC Learn",
   "author": {
-    "name": "Moodle Pty Ltd.",
-    "email": "mobile@moodle.com"
+    "name": "IntactMedia",
+    "email": "khader@intactmedia.net"
   },
   "repository": {
     "type": "git",
